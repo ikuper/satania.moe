@@ -1,8 +1,7 @@
 # All Hail Tanya
-Before I start anything, huge thanks to Pizzacus for such quality post, it gave me inspiration for my ITGS IA (School Project).
+Before I start anything, huge thanks to Pizzacus for such quality post, it gave me inspiration for my ITGS IA (School Project). I am a highschool student in Hong Kong and I have no idea what I am doing...but anyway...
 
 # Tanya: The Best Girl ever.
-
 This is a website for those who wanna praise Tanya, I built this website for my School Project, ITGS IA. You can actually browse it at <https://tanya.moe>
 
 
