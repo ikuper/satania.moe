@@ -1,4 +1,4 @@
-# Satania: The best Waifu. Ever.
+# The Best Girl ever.
 
 This is a website for those who wanna praise Satania, you can actually browse it at <https://satania.moe>
 
