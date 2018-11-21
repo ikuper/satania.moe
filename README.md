@@ -11,5 +11,5 @@ This is a website for those who wanna praise Tanya, I built this website for my 
   * Everyone else who gave me mental support when I wanna gave up on creating this website...
 
 ## License
-This project is released under the TDL 1.0 License (the Tanya Degurechaff License), which is basically like MIT, except you can't use this project to promote any other characters except Satania, more infos are in the `LICENSE.md` file.
+This project is released under the TDL 1.0 License (the Tanya Degurechaff License), which is basically like MIT, except you can't use this project anti-promote Tanya, more infos are in the `LICENSE.md` file.
 
