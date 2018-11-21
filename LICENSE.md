@@ -5,7 +5,9 @@ Copyright 2018 ikuper
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-DO NOT USE THIS SOFTWARE TO ANTI-PROMOTE TANYA, is that a word? I couldn't think of anything, but... you know... anti-promotion is like the reverse of promotion, like, when you anti-promote something you're trying to get people to hate it, or just like it less, so if you used this website to say, for instance, that Tanya is a bad waifu, it would be a violation of this license.
+DO NOT USE THIS SOFTWARE TO ANTI-PROMOTE TANYA or SATANIA, is that a word? I couldn't think of anything, but... you know... anti-promotion is like the reverse of promotion, like, when you anti-promote something you're trying to get people to hate it, or just like it less, so if you used this website to say, for instance, that Tanya is a bad waifu, it would be a violation of this license.
+
+THIS SOFTWARE MUST NOT BE USED TO PROMOTE ANY CHARACTERS FROM THE ANIME GABRIEL DROPOUT IN ANY WAY EXCEPT SATANIA. Characters from other shows are fine, but the ones from Gabriel Dropout are not, these include, but aren't limited to: Gabriel, Vignette, Raphiel, Tapris, Iinchou, Haniel, Martiel, Master, Tanaka, Ueno, Zelel, or any other character that could be revealed in the future.
 
 And the above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
